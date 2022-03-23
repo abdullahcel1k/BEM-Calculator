@@ -28,7 +28,7 @@ body {
   padding: 1rem;
 }
 
-.calculator__result {
+.calculator__value {
   font-size: 64px;
   font-weight: 700;
   color: white;
